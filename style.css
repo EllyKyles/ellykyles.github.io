@@ -3,8 +3,8 @@ h1{
     color:deepskyblue;
     background-color: cornsilk;
     border:3px solid green;
-    padding: 26px;
-    font-size:54px;
+    padding: 25px;
+    font-size:25px;
     font-family: cursive;
 
 }
@@ -19,5 +19,5 @@ div{
 }
 
 img{
-    width:50px;
+    width:80px;
 }
