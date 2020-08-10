@@ -9,7 +9,7 @@ h1{
 
 p{
 
-    color: orange;
+    color: organe;
 }
 
 div{
@@ -17,7 +17,12 @@ div{
 }
 
 img{
-   
+    border-radius: 8px;
     width: 300px;
  
+}
+
+.elly_pic{
+    display: flex;
+    justify-content: center;
 }
