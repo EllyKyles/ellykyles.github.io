@@ -2,22 +2,22 @@ h1{
 
     color:deepskyblue;
     background-color: cornsilk;
-    border:3px solid green;
-    padding: 25px;
-    font-size:25px;
+    border:1px solid green;
+    padding: 10px;
+    font-size:10px;
     font-family: cursive;
 
 }
 
 p{
 
-    background-color: orange;
+    color: orange;
 }
 
 div{
-    color: red;
+    color: deepskyblue;
 }
 
 img{
-    width:80px;
+    width:100px;
 }
